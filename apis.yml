@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/evergyco
+  - url: https://newsroom.evergy.com/newsroom
+    type: Blog
 apis: []
