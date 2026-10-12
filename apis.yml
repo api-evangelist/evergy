@@ -30,6 +30,8 @@ created: '2026-05-05'
 modified: '2026-05-05'
 specificationVersion: '0.23'
 common:
+  - type: Website
+    url: https://www.evergy.com/
   - type: LinkedIn
     url: https://www.linkedin.com/company/evergyco
   - url: https://newsroom.evergy.com/newsroom
